@@ -6,3 +6,5 @@ To register, add to this file the following information:
 
 ===== Registered Entries ======================================
 
+26b90e04873016d84de057343252652b7a48e484
+https://github.com/jcollinscastro/Summer2020algContest
